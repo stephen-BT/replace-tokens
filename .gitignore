@@ -1,5 +1,8 @@
 __tests__/runner/*
 
+# IDE
+.idea/
+
 # comment out in distribution branches
 node_modules/
 
